@@ -42,7 +42,7 @@ A slightly longer paragraph explaining the purpose of the project, the problem i
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/project-name.git
+   git clone https://github.com/parneetkaur2505/project-name.git
    cd project-name
    ```
 
