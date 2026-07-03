@@ -1,0 +1,27 @@
+print("Poem: Heart and stones")
+
+
+
+print("""A heart is a soft, a stone is hard,                                  
+       But both can be found in the same place.
+      A heart can be broken, a stone can be chipped,
+         But both can be mended with time and care.
+      A heart can be filled with love and joy,
+        A stone can be filled with memories and history.
+     So treat them with kindness, the soft and the strong,
+    For in heart and in stone, a life's song is long.""")
+
+print("""
+                     *
+                    ***
+                   *****
+                  *******                     "PARNEET BRAR"
+                 *********
+                ***********
+               *************
+              ***************
+                    | |
+                    | |
+                    | |
+                    | |
+                    | |""")
